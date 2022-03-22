@@ -18,15 +18,15 @@
     "tags": [
         {
             "name": "pet",
-            "description": "ペットに関するAPI"
+            "description": "ペットに関するAPI(test)"
         },
         {
             "name": "store",
-            "description": "ペットストアの注文に関するAPI"
+            "description": "ペットストアの注文に関するAPI(test)"
         },
         {
             "name": "user",
-            "description": "ペットストア会員に関するAPI"
+            "description": "ペットストア会員に関するAPI(test)"
         }
     ],
     "schemes": [
