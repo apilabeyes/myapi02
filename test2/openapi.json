@@ -1,7 +1,7 @@
 {
     "swagger": "2.0",
     "info": {
-        "title": "ペットストアAPI2222",
+        "title": "ペットストアAPI2",
         "version": "1.0.5",
         "description": "ペットストアのOpenAPIドキュメントです。このサンプルAPIではAPIキーとして`special-key`を使って認可フィルターをテストできます。",
         "termsOfService": "http://swagger.io/terms/",
