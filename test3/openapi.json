@@ -3,7 +3,7 @@
     "info": {
         "title": "ペットストアAPI3",
         "version": "1.0.5",
-        "description": "ペットストアのOpenAPIドキュメント3です。このサンプルAPIではAPIキーとして`special-key`を使って認可フィルターをテストできます。",
+        "description": "ペットストアのOpenAPIドキュメントです。このサンプルAPIではAPIキーとして`special-key`を使って認可フィルターをテストできます。",
         "termsOfService": "http://swagger.io/terms/",
         "contact": {
             "email": "apiteam@swagger.io"
